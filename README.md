@@ -18,4 +18,6 @@ MRC is an essential task in Natural Language Process (NLP) that teach machines t
 
   1. 
 
+</details>
 
+## Load it as Docker Image without any setup 
