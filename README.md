@@ -17,6 +17,10 @@ MRC is an essential task in Natural Language Process (NLP) that teach machines t
 <details><summary><b>Show instructions</b></summary>
 
   1. 
+  2. 
+  ```sh
+  python manage.py runserver
+  ```
 
 </details>
 
